@@ -1,0 +1,13 @@
+body {
+    background-image: url("foticos/backgroundMiami.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logoInicio img {
+    margin-left: 200px;
+    width: 1000px;
+    height: 130px;
+}
